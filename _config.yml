@@ -1,4 +1,4 @@
-base_url: https://yola.github.io/script-tip/
+base_url: https://yola.github.io/script-tip
 
 server_port:  5000
 auto: true

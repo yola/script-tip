@@ -1,4 +1,10 @@
+---
+layout: post
+title: "Looping through files"
+---
+
 ##Looping through files
+
 
 ```bash
 #!/bin/sh
